@@ -28,7 +28,7 @@ function Show-RocketAnimation {
         foreach ($frame in $rocketFrames) {
             $clearScreen.Invoke()
             Write-Host $frame
-            Start-Sleep -Milliseconds 150
+            Start-Sleep -Milliseconds 600  # Increase the milliseconds value to slow down the animation
         }
     }
 
