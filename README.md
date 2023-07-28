@@ -1,3 +1,12 @@
+                                      _          _ _
+     _ __   _____      _____ _ __ ___| |__   ___| | |
+    | '_ \ / _ \ \ /\ / / _ \ '__/ __| '_ \ / _ \ | |
+    | |_) | (_) \ V  V /  __/ |  \__ \ | | |  __/ | |
+    | .__/ \___/ \_/\_/ \___|_|  |___/_| |_|\___|_|_|
+    |_|
+
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
 # Welcome to my PowerShell Repository! 
 This repository is a collection of fun and useful PowerShell scripts designed to make your PowerShell experience enjoyable and productive.
 
