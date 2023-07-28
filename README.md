@@ -16,7 +16,7 @@ Some scripts may require additional modules or permissions. Check the individual
 
 Download an individual script
 
-Right Click File -> Run in powershell
+Right Click File -> Run in Powershell
 
 # Contributing
 Contributions are welcome! If you have a cool PowerShell script that you'd like to share with the community, feel free to submit a pull request. Ensure your script is well-documented and adheres to the repository's purpose of fun and productivity.
