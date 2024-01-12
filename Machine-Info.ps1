@@ -33,5 +33,4 @@ Write-Host "IP Address: $(Get-IPAddress)"
 Write-Host "MAC Address: $(Get-MACAddress)"
 Write-Host "Default Gateway: $(Get-DefaultGateway)"
 Write-Host "DNS Servers: $(Get-DNSServers)"
-Write-Host "Network Adapter Information:"
-Get-NetworkAdapterInfo
+Write-Host "Network Adapter Information: $(Get-NetworkAdapterInfo)"
