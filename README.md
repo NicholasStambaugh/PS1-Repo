@@ -8,7 +8,9 @@
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 # Welcome to my PowerShell Repository! 
-This repository is a collection of fun and useful PowerShell scripts designed to make your PowerShell experience enjoyable and productive.
+This repository is a collection of PS1 scripts for network, and system logging, among other things. 
+
+Useful in the event of malware, for example. You can deeply diagnose a machine yourself with these scripts.
 
 # How to Use
 To use the scripts from this repository, follow these steps:
